@@ -1,6 +1,6 @@
 ### Hi there, I'm Rajiv 👋
 
-Check out my [website](https://rajivswamy.notion.site/Hi-I-m-Rajiv-Swamy-f4c81f37a5324904935b07b23c5e4c6f?pvs=4) to learn more about me and what I've been working on. Feel free to reach me at rswamy (~at~) princeton (~dot~) edu.
+Check out my [website](https://rajivswamy.notion.site/Hi-I-m-Rajiv-Swamy-f4c81f37a5324904935b07b23c5e4c6f?pvs=4) to learn more about me and what I've been working on. Feel free to reach me at rswamy (~at~) g (~dot~) harvard (~dot~) edu.
 
 <!--
 **rajivswamy/rajivswamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
